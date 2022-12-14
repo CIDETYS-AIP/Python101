@@ -1,0 +1,20 @@
+Comentarios
+
+programa de juegos
+1. no utilizo funciones, programo manualmente las lineasd multiples veces
+
+programa de carrera de UTP
+1. no utiliza bs4 o selenium (menos puntos)
+
+programa de personalidades 
+1. agrego funcion de traduccion (textblob)
+
+programa de covid
+1. utilizo jupyter notebook
+2. utilizo pandas para tabla y transformacion a excel
+
+programa de metrobus
+1. no necesito usar bucles y/o decisiones
+
+programa pdf y/o imagen
+1. utilizo extras librerias
